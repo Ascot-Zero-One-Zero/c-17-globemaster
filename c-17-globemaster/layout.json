@@ -1,0 +1,1749 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/C-17-G/.unknown.cfg",
+      "size": 183,
+      "date": 132600381548086653
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/ai.cfg",
+      "size": 743,
+      "date": 132541983456437294
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/aircraft.cfg",
+      "size": 26681,
+      "date": 132600381687668257
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/aircraft.loc",
+      "size": 21429,
+      "date": 132541983255551285
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/approach.FLT",
+      "size": 5188,
+      "date": 132541983458778158
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/apron.FLT",
+      "size": 5057,
+      "date": 132541983461248243
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/C17.air",
+      "size": 8345,
+      "date": 129004576034690000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/cameras.cfg",
+      "size": 36313,
+      "date": 132541983458812875
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/Climb.flt",
+      "size": 5193,
+      "date": 132541983458832706
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/cockpit.cfg",
+      "size": 4811,
+      "date": 132541983468614026
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/cruise.FLT",
+      "size": 5188,
+      "date": 132541983458852553
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/engines.cfg",
+      "size": 7134,
+      "date": 132541983426354900
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/final.FLT",
+      "size": 5196,
+      "date": 132541983458872396
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/flight_model.cfg",
+      "size": 40778,
+      "date": 132602194204221313
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/gameplay.cfg",
+      "size": 1152,
+      "date": 132541983255794323
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/hangar.flt",
+      "size": 4167,
+      "date": 132541983458887276
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/runway.FLT",
+      "size": 5053,
+      "date": 132541983458907124
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/systems.cfg",
+      "size": 19986,
+      "date": 132600453311172034
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/target_performance.cfg",
+      "size": 2300,
+      "date": 132541983270585610
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/taxi.FLT",
+      "size": 4982,
+      "date": 132541983458932199
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/Checklist/boeing747-400_Checklist.xml",
+      "size": 2625,
+      "date": 132541983356279818
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/Checklist/Library.xml",
+      "size": 11560,
+      "date": 132597942771724361
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_INTERIOR.xml",
+      "size": 190264,
+      "date": 132597942771882138
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_INTERIOR_LOD00.bin",
+      "size": 24395712,
+      "date": 132597942795457598
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_INTERIOR_LOD00.gltf",
+      "size": 3484969,
+      "date": 132597942795506916
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_INTERIOR_LOD01.bin",
+      "size": 16838436,
+      "date": 132597942773049907
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_INTERIOR_LOD01.gltf",
+      "size": 2662732,
+      "date": 132597942773090523
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_INTERIOR_LOD02.bin",
+      "size": 11806930,
+      "date": 132597942773288643
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_INTERIOR_LOD02.gltf",
+      "size": 2834973,
+      "date": 132597942773333284
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD00.bin",
+      "size": 58851672,
+      "date": 132597942797248889
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD00.gltf",
+      "size": 1112042,
+      "date": 132597942797273689
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD01.bin",
+      "size": 40096464,
+      "date": 132597942798380052
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD01.gltf",
+      "size": 1086492,
+      "date": 132597942798399609
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD02.bin",
+      "size": 19689312,
+      "date": 132597942798967537
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD02.gltf",
+      "size": 1030781,
+      "date": 132597942798992320
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD03.bin",
+      "size": 4507192,
+      "date": 132597942799091233
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD03.gltf",
+      "size": 691637,
+      "date": 132597942799106114
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD04.bin",
+      "size": 4164440,
+      "date": 132597942799195696
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD04.gltf",
+      "size": 583473,
+      "date": 132597942799210275
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD05.bin",
+      "size": 829248,
+      "date": 132597942799230112
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD05.gltf",
+      "size": 151069,
+      "date": 132597942799237804
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD06.bin",
+      "size": 3720,
+      "date": 132541983461129183
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/747_8I_LOD06.gltf",
+      "size": 2427,
+      "date": 132597942777062629
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/C17.MDL",
+      "size": 11285278,
+      "date": 129008837229678000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/model/model.CFG",
+      "size": 674,
+      "date": 132600433169187002
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/panel/panel.cfg",
+      "size": 2508,
+      "date": 132541983266994572
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/panel/panel.xml",
+      "size": 21623,
+      "date": 132541983438134846
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/sound/Asobo_B747_8i.PC.PCK",
+      "size": 77609431,
+      "date": 132541983465151749
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/sound/sound.xml",
+      "size": 29429,
+      "date": 132541983465156975
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/soundai/Asobo_B747_8i_AI.PC.PCK",
+      "size": 7616843,
+      "date": 132541983324283102
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/soundai/soundai.xml",
+      "size": 1407,
+      "date": 132541983327442635
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.1.bmp",
+      "size": 349626,
+      "date": 127409933920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.2.bmp",
+      "size": 349626,
+      "date": 127409933920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.chrome_t.bmp",
+      "size": 262218,
+      "date": 128397179880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.generic_lightmap_l.bmp",
+      "size": 16458,
+      "date": 128396092900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.globalenv_ac_chrome.bmp",
+      "size": 263224,
+      "date": 127319361980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.gr.bmp",
+      "size": 262218,
+      "date": 128687137840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.gr_l.bmp",
+      "size": 262218,
+      "date": 128687138000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.hud.bmp",
+      "size": 786486,
+      "date": 128699182240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.plexi_t.bmp",
+      "size": 262218,
+      "date": 128967342560937020
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/.rad.bmp",
+      "size": 349626,
+      "date": 127409933920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/1.dds",
+      "size": 1398228,
+      "date": 132600382155863919
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/2.dds",
+      "size": 1398228,
+      "date": 132600382157696205
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/auto.dds",
+      "size": 1398256,
+      "date": 128995579114955000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_01_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132541983286472816
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_01_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132541983286482744
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_01_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983286824982
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_01_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983286839881
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_01_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983287216828
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_01_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983287241624
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_02_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132541983287415223
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132541983287425142
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_02_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983287787315
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_02_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983287802386
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_02_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983288193941
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_02_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983288208820
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_03_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132541983288387376
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_03_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132541983288402264
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_03_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983288749711
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_03_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983288764583
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_03_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983289195855
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_03_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983289205778
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BRAKE_GAUGE_ALBD.JPG.DDS",
+      "size": 699192,
+      "date": 132541983289275216
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BRAKE_GAUGE_ALBD.JPG.DDS.json",
+      "size": 102,
+      "date": 132541983289290528
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_KNOBS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132541983289483811
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_KNOBS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132541983289493751
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_KNOBS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983289806255
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_KNOBS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983289816140
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_KNOBS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983290158348
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_KNOBS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983290168276
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_PUSH_SWITCHES_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132541983290292262
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_PUSH_SWITCHES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132541983290302186
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_PUSH_SWITCHES_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983290549936
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_PUSH_SWITCHES_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983290559856
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_PUSH_SWITCHES_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983290951700
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_BUTTONS_PUSH_SWITCHES_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983290961620
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECALS_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 132541983291829619
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132541983291839539
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECALS_COMP.PNG.DDS",
+      "size": 349700,
+      "date": 132541983291864340
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECALS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983291879221
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECALS_EMIS.TIF.DDS",
+      "size": 174904,
+      "date": 132541983291904017
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECALS_EMIS.TIF.DDS.json",
+      "size": 102,
+      "date": 132541983291913943
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECALS_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 132541983291943701
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECALS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983291953619
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECAL_STITCH_ALBD.TIF.DDS",
+      "size": 43920,
+      "date": 132541983291770099
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECAL_STITCH_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132541983291780018
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECAL_STITCH_NORM.TIF.DDS",
+      "size": 43920,
+      "date": 132541983291789932
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_DECAL_STITCH_NORM.TIF.DDS.json",
+      "size": 160,
+      "date": 132541983291804820
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_FLOOR_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132597942777104548
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132597942777114682
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_FLOOR_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132597942777179180
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_FLOOR_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132597942777184815
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_FLOOR_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 132597942777244345
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_FLOOR_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132597942777254265
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_GLARESHIELD_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132541983298813320
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_GLARESHIELD_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132541983298823216
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_GLARESHIELD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983299195609
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_GLARESHIELD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983299210091
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_GLARESHIELD_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983299577128
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_GLARESHIELD_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983299587262
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHTBULB_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132541983299795610
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHTBULB_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132541983299805472
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHTBULB_EMIS.PNG.DDS",
+      "size": 699192,
+      "date": 132541983299859862
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHTBULB_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 132541983299869783
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_KNOBS_ALBD.PNG.DDS",
+      "size": 43848,
+      "date": 132421771111417061
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_KNOBS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421771111467116
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_KNOBS_COMP.PNG.DDS",
+      "size": 87588,
+      "date": 132541983299636646
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_KNOBS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983299646819
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_KNOBS_EMISSIVE.PNG.DDS",
+      "size": 65664,
+      "date": 132579485637328942
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_KNOBS_EMISSIVE.PNG.DDS.json",
+      "size": 102,
+      "date": 132421771111617591
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_KNOBS_NORM.PNG.DDS",
+      "size": 87568,
+      "date": 132541983299691216
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_KNOBS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983299706091
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_RUDDER_ALBD.PNG.DDS",
+      "size": 22032,
+      "date": 132531458367330780
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_RUDDER_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132421771111820856
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_RUDDER_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132531458367363189
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_RUDDER_EMIS.PNG.DDS",
+      "size": 22032,
+      "date": 132579025379480988
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_LIGHT_RUDDER_EMIS.PNG.DDS.json",
+      "size": 119,
+      "date": 132531458357680853
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_MAIN_PANEL_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132578436899414308
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_MAIN_PANEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421771112217283
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_MAIN_PANEL_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983305152172
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_MAIN_PANEL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983305162091
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_MAIN_PANEL_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983305593604
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_MAIN_PANEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983305603812
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_OVERHEAD_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132578438226349906
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_OVERHEAD_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421771113017388
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_OVERHEAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983306159288
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_OVERHEAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983306173923
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_OVERHEAD_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983307270090
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_OVERHEAD_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983307319697
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PEDESTAL_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132578440031080748
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PEDESTAL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421771113921074
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PEDESTAL_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983308043844
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PEDESTAL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983308157931
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PEDESTAL_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132597942777462879
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PEDESTAL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132597942777472509
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PROPS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132578965065218934
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PROPS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421771114716319
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PROPS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983311689439
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PROPS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983311833291
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PROPS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983313728007
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_PROPS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983313737925
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS1_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132579071894932596
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421771115617557
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS2_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132578441223605398
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421771116320276
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132597942770930802
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132597942770940925
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132597942771288751
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132597942771298686
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132597942771646188
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_SEATS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132597942771656155
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_ALBD.TIF.DDS",
+      "size": 5592560,
+      "date": 132541983441710807
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_ALBD.TIF.DDS.FLAGS",
+      "size": 18,
+      "date": 132541983315533444
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132541983441720729
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_COMP.TIF.DDS",
+      "size": 1398276,
+      "date": 132541983315597917
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_COMP.TIF.DDS.json",
+      "size": 191,
+      "date": 132541983315612804
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_EMISSIVE.TIF.DDS",
+      "size": 4194432,
+      "date": 132578952096949727
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_EMISSIVE.TIF.DDS.FLAGS",
+      "size": 18,
+      "date": 132421771117217489
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_EMISSIVE.TIF.DDS.json",
+      "size": 102,
+      "date": 132553968060000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_NORM.TIF.DDS",
+      "size": 5592560,
+      "date": 132541983315826084
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_TEXTS_NORM.TIF.DDS.json",
+      "size": 160,
+      "date": 132541983315835999
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_THROTTLE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132541983441953842
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132541983441963762
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_THROTTLE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983316262843
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983441968724
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_THROTTLE_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983316644475
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_THROTTLE_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983441978642
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_YOKE_PEDALS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132579038197929745
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_YOKE_PEDALS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421771118667504
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_YOKE_PEDALS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132541983317140780
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_YOKE_PEDALS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132541983317150717
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_YOKE_PEDALS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132541983317576986
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/B747_COCKPIT_YOKE_PEDALS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132541983317587070
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/bays_t.dds",
+      "size": 1048704,
+      "date": 129002840503761500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/bays_t_bump.dds",
+      "size": 1048704,
+      "date": 128687369580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/blast.dds",
+      "size": 65664,
+      "date": 128963002992031250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/Chrome_Specular_t.dds",
+      "size": 262272,
+      "date": 128688169900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/chrome_t.dds",
+      "size": 1398228,
+      "date": 132600382159318298
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/cons.dds",
+      "size": 349680,
+      "date": 129000192662679000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/doors_t.dds",
+      "size": 1048704,
+      "date": 128687350080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/ecu.dds",
+      "size": 1048704,
+      "date": 129008745760418000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/eng_t.dds",
+      "size": 1398256,
+      "date": 128997354403275500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/eng_t_bump.dds",
+      "size": 1048704,
+      "date": 129003362446148500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/fuse1_t.dds",
+      "size": 1048704,
+      "date": 129001975904969500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/fuse1_t_bump.dds",
+      "size": 1048704,
+      "date": 129001981922879500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/fuse2_t.dds",
+      "size": 1048704,
+      "date": 129001976294449500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/fuse2_t_bump.dds",
+      "size": 1398256,
+      "date": 129001701284804000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129001976758339500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/fuse3_t_bump.dds",
+      "size": 1398256,
+      "date": 129001713562770000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/fuse_t.dds",
+      "size": 1048704,
+      "date": 128688148600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/fuse_t_bump.dds",
+      "size": 1048704,
+      "date": 128688149600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/gauges.dds",
+      "size": 1398256,
+      "date": 129001668573702000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/gauges_LM.dds",
+      "size": 1398256,
+      "date": 128979927938080000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/Gblank.dds",
+      "size": 65664,
+      "date": 128970802246250000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/gear.dds",
+      "size": 1048704,
+      "date": 129008753412338000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/GEARINT.dds",
+      "size": 65664,
+      "date": 128969969198750000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/GEARINTLM.dds",
+      "size": 65664,
+      "date": 128969968963593750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/gear_bump.dds",
+      "size": 1048704,
+      "date": 129003363567688500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/Generic_Lightmapint_L.dds",
+      "size": 22000,
+      "date": 128999414028156500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/generic_lightmap_l.dds",
+      "size": 87508,
+      "date": 132600382160687076
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/globalenv_ac_chrome.dds",
+      "size": 1398228,
+      "date": 132600382162234625
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/gr.dds",
+      "size": 349652,
+      "date": 132600382163634127
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/green.dds",
+      "size": 16512,
+      "date": 128969940142656250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/gr_l.dds",
+      "size": 349652,
+      "date": 132600382164997989
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/hud.dds",
+      "size": 1398228,
+      "date": 132600382166550385
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/int.dds",
+      "size": 1048704,
+      "date": 129008557544298000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/intglass_t.dds",
+      "size": 262272,
+      "date": 128699123160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/int_bmp.dds",
+      "size": 262272,
+      "date": 128969161685122500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/metal.dds",
+      "size": 1048704,
+      "date": 128974174457500000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/overh.dds",
+      "size": 1398256,
+      "date": 128985465075815500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/overh_LM.dds",
+      "size": 1048704,
+      "date": 128975734022812500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/pal.dds",
+      "size": 349680,
+      "date": 128985385246075500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/pilot.dds",
+      "size": 1048704,
+      "date": 128959572314218750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/Plexiint_T.dds",
+      "size": 262272,
+      "date": 128699125160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/plexi_t copy.dds",
+      "size": 262272,
+      "date": 128967340337669288
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/plexi_t.dds",
+      "size": 1398228,
+      "date": 132600382168066184
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/pylon.dds",
+      "size": 1048704,
+      "date": 129001979134879500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/pylon_bump.dds",
+      "size": 1398256,
+      "date": 128962216526875000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/rad.dds",
+      "size": 1398228,
+      "date": 132600382169683142
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/ramp_t.dds",
+      "size": 1048704,
+      "date": 129002840375529500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/red.dds",
+      "size": 16512,
+      "date": 128969939890937500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/shies.dds",
+      "size": 1048704,
+      "date": 128966301502123750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/tail_t.dds",
+      "size": 1048704,
+      "date": 129003759108963500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/tail_t_bump.dds",
+      "size": 1398256,
+      "date": 128961751734218750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/texture.CFG",
+      "size": 309,
+      "date": 132600412387970145
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/thumbnail.JPG",
+      "size": 7661,
+      "date": 128964458257748750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/thumbnail_small.JPG",
+      "size": 40291,
+      "date": 132541983317651645
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/WHITE.dds",
+      "size": 16512,
+      "date": 128975136040312500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/wleftup_t.dds",
+      "size": 1048704,
+      "date": 129003372784028500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/wrightdwn_t.dds",
+      "size": 1048704,
+      "date": 129002774559736000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/wrightup_t.dds",
+      "size": 1048704,
+      "date": 129002772516940000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/wrightup_t_bump.dds",
+      "size": 1398256,
+      "date": 128963064801718750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/wrleftup_t_bump.dds",
+      "size": 1398256,
+      "date": 128963065175312500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/TEXTURE/wrlftdwn_t.dds",
+      "size": 1048704,
+      "date": 129004539538370000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/fuse1_t.dds",
+      "size": 1048704,
+      "date": 128964542368530000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/fuse2_t.dds",
+      "size": 1048704,
+      "date": 128688963540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129004565417460000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/fuse_t.dds",
+      "size": 1048704,
+      "date": 128688148600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/tail_t.dds",
+      "size": 1048704,
+      "date": 128963665767812500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/texture.cfg",
+      "size": 311,
+      "date": 132600413502548930
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/thumbnail.jpg",
+      "size": 23156,
+      "date": 128964606213842500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/wleftup_t.dds",
+      "size": 1048704,
+      "date": 128963682643906250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/wrightdwn_t.dds",
+      "size": 1048704,
+      "date": 128964542081967500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/wrightup_t.dds",
+      "size": 1048704,
+      "date": 128963682808750000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.1/wrlftdwn_t.dds",
+      "size": 1048704,
+      "date": 128964541866498750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.10/fuse1_t.dds",
+      "size": 1048704,
+      "date": 129001990639389500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.10/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129001994633889500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.10/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.10/thumbnail.jpg",
+      "size": 20743,
+      "date": 128964605838686250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.11/fuse1_t.dds",
+      "size": 1048704,
+      "date": 129001991239329500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.11/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129001995092599500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.11/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.11/thumbnail.jpg",
+      "size": 20743,
+      "date": 128964605838686250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/fuse1_t.dds",
+      "size": 1048704,
+      "date": 129004564435430000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/fuse2_t.dds",
+      "size": 1048704,
+      "date": 128688963540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129004565417460000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/fuse_t.dds",
+      "size": 1048704,
+      "date": 128688148600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/tail_t.dds",
+      "size": 1048704,
+      "date": 129004559589750000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/thumbnail.jpg",
+      "size": 19280,
+      "date": 129004565288800000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/wleftup_t.dds",
+      "size": 1048704,
+      "date": 128963682643906250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/wrightdwn_t.dds",
+      "size": 1048704,
+      "date": 128964542081967500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/wrightup_t.dds",
+      "size": 1048704,
+      "date": 128963682808750000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.12/wrlftdwn_t.dds",
+      "size": 1048704,
+      "date": 128964541866498750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/fuse1_t.dds",
+      "size": 1048704,
+      "date": 128964536563998750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/fuse2_t.dds",
+      "size": 1048704,
+      "date": 128688963540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/fuse3_t.dds",
+      "size": 1048704,
+      "date": 128964516857905000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/fuse_t.dds",
+      "size": 1048704,
+      "date": 128688148600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/tail_t.dds",
+      "size": 1048704,
+      "date": 128964516722748750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/thumbnail.jpg",
+      "size": 46538,
+      "date": 128964606568686250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/wleftup_t.dds",
+      "size": 1398256,
+      "date": 129001789871957000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/wrightdwn_t.dds",
+      "size": 1048704,
+      "date": 128964517712905000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/wrightup_t.dds",
+      "size": 1398256,
+      "date": 129001790525561000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.2/wrlftdwn_t.dds",
+      "size": 1048704,
+      "date": 128964516568530000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.3/fuse1_t.dds",
+      "size": 1048704,
+      "date": 129001975904969500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.3/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129001976758339500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.3/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.3/thumbnail.jpg",
+      "size": 20743,
+      "date": 128964605838686250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/fuse1_t.dds",
+      "size": 1048704,
+      "date": 128964612932123750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/fuse2_t.dds",
+      "size": 1048704,
+      "date": 128688963540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/fuse3_t.dds",
+      "size": 1048704,
+      "date": 128964614623061250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/fuse_t.dds",
+      "size": 1048704,
+      "date": 128688148600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/tail_t.dds",
+      "size": 1048704,
+      "date": 128966381722436250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/thumbnail.jpg",
+      "size": 20667,
+      "date": 128964626696967500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/wleftup_t.dds",
+      "size": 1048704,
+      "date": 128964616488530000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/wrightdwn_t.dds",
+      "size": 1048704,
+      "date": 128964616733373750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/wrightup_t.dds",
+      "size": 1048704,
+      "date": 128964616936186250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.4/wrlftdwn_t.dds",
+      "size": 1048704,
+      "date": 128964617137436250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/fuse1_t.dds",
+      "size": 1048704,
+      "date": 128966402767436250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/fuse2_t.dds",
+      "size": 1048704,
+      "date": 128688963540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/fuse3_t.dds",
+      "size": 1048704,
+      "date": 128964542651342500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/fuse_t.dds",
+      "size": 1048704,
+      "date": 128688148600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/tail_t.dds",
+      "size": 1048704,
+      "date": 128966398806498750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/thumbnail.jpg",
+      "size": 23156,
+      "date": 128964606213842500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/wleftup_t.dds",
+      "size": 1048704,
+      "date": 128963682643906250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/wrightdwn_t.dds",
+      "size": 1048704,
+      "date": 128964542081967500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/wrightup_t.dds",
+      "size": 1048704,
+      "date": 128963682808750000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.5/wrlftdwn_t.dds",
+      "size": 1048704,
+      "date": 128964541866498750
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/bays_t.dds",
+      "size": 1398256,
+      "date": 128998408670890000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/doors_t.dds",
+      "size": 1398256,
+      "date": 128998407179270000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/eng_t.dds",
+      "size": 1398256,
+      "date": 128998406785090000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/fuse1_t.dds",
+      "size": 1048704,
+      "date": 129001995353299500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/fuse2_t.dds",
+      "size": 1398256,
+      "date": 128998397876840000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129001995542809500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/fuse_t.dds",
+      "size": 1048704,
+      "date": 128688148600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/pylon.dds",
+      "size": 1398256,
+      "date": 128998402313990000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/ramp_t.dds",
+      "size": 1398256,
+      "date": 128998420356740000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/tail_t.dds",
+      "size": 1048704,
+      "date": 129001995711069500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/thumbnail.jpg",
+      "size": 30272,
+      "date": 128998424985614000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/wleftup_t.dds",
+      "size": 1398256,
+      "date": 128998400152980000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/wrightdwn_t.dds",
+      "size": 1398256,
+      "date": 128998401450790000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/wrightup_t.dds",
+      "size": 1398256,
+      "date": 128998400517670000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.6/wrlftdwn_t.dds",
+      "size": 1398256,
+      "date": 128998401744610000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.7/fuse1_t.dds",
+      "size": 1048704,
+      "date": 129001984186649500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.7/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129001993293929500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.7/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.7/thumbnail.jpg",
+      "size": 20743,
+      "date": 128964605838686250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.8/fuse1_t.dds",
+      "size": 1048704,
+      "date": 129001988001119500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.8/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129001993748359500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.8/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.8/thumbnail.jpg",
+      "size": 20743,
+      "date": 128964605838686250
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.9/fuse1_t.dds",
+      "size": 1048704,
+      "date": 129001989150989500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.9/fuse3_t.dds",
+      "size": 1048704,
+      "date": 129001994184329500
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.9/texture.cfg",
+      "size": 39,
+      "date": 128964601086030000
+    },
+    {
+      "path": "SimObjects/Airplanes/C-17-G/texture.9/thumbnail.jpg",
+      "size": 20743,
+      "date": 128964605838686250
+    }
+  ]
+}

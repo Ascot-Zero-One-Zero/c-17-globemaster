@@ -1,0 +1,39 @@
+<AssetPackage Name="AscotZeroOneZero-BoeingC17GlobemasterIII.xml" Version="0.0.1a">
+	<ItemSettings>
+		<ContentType>AIRCRAFT</ContentType>
+		<Title>C17 Globemaster III</Title>
+		<Manufacturer>Boeing</Manufacturer>
+		<Creator>Ascot Zero One Zero</Creator>
+		<Description/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>true</VisibleInStore>
+		<CanBeReferenced>true</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\AscotZeroOneZero-BoeingC17GlobemasterIII\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\AscotZeroOneZero-BoeingC17GlobemasterIII\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MarketplaceData">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\AscotZeroOneZero-BoeingC17GlobemasterIII\MarketplaceData\</AssetDir>
+			<OutputDir>MarketplaceData\mAscotZeroOneZero-BoeingC17GlobemasterIII\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="AscotZeroOneZero-BoeingC17GlobemasterIII">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\Airplanes\C17-G\</AssetDir>
+			<OutputDir>SimObjects\Airplanes\C17-G\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>

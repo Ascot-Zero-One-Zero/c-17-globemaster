@@ -1,0 +1,7 @@
+<Project Version="1" Name="C17" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\C17pd.xml</Package>
+	</Packages>
+</Project>

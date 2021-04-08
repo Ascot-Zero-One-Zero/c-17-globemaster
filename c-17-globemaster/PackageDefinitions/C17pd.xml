@@ -1,4 +1,4 @@
-<AssetPackage Name="AscotZeroOneZero-BoeingC17GlobemasterIII.xml" Version="0.0.1a">
+<AssetPackage Name="C17pd.xml" Version="1">
 	<ItemSettings>
 		<ContentType>AIRCRAFT</ContentType>
 		<Title>C17 Globemaster III</Title>
@@ -16,16 +16,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\AscotZeroOneZero-BoeingC17GlobemasterIII\ContentInfo\</AssetDir>
-			<OutputDir>ContentInfo\AscotZeroOneZero-BoeingC17GlobemasterIII\</OutputDir>
+			<AssetDir>PackageDefinitions\C17\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\C17\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="MarketplaceData">
 			<Type>Copy</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\AscotZeroOneZero-BoeingC17GlobemasterIII\MarketplaceData\</AssetDir>
-			<OutputDir>MarketplaceData\mAscotZeroOneZero-BoeingC17GlobemasterIII\</OutputDir>
+			<AssetDir>PackageDefinitions\C17\MarketplaceData\</AssetDir>
+			<OutputDir>MarketplaceData\C17\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="AscotZeroOneZero-BoeingC17GlobemasterIII">
 			<Type>SimObject</Type>

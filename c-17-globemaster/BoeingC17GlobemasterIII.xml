@@ -1,7 +1,0 @@
-<Project Version="0.0.1a" Name="BoeingC17GlobemasterIII" FolderName="Packages">
-	<OutputDirectory>.</OutputDirectory>
-	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
-	<Packages>
-		<Package>PackageDefinitions\AscotZeroOneZero-BoeingC17GlobemasterIII.xml</Package>
-	</Packages>
-</Project>
